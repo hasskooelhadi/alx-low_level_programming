@@ -1,1 +1,1 @@
-**I am learning on how to debug code**
+this is debuging C programs project
